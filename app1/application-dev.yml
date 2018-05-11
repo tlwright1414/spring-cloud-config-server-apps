@@ -1,5 +1,5 @@
-
 test:
   git:
+    message: hello-from-app-1-DEV
     level: app1
     env: dev

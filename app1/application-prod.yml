@@ -1,0 +1,5 @@
+test:
+  git:
+    message: hello-from-app-1-PROD
+    level: app1
+    env: prod
