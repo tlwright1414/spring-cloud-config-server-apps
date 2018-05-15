@@ -1,3 +1,6 @@
 test: 
   git: 
     message: hello-from-app-1
+    level: app1
+    env: default
+    password: {cipher}AQACzfNGN35U7GH1HqavAeYON3ycAEH/1yv2pIqmhH2GcUcXiZup1dSZzxa5VBFsM8O3p6XmsiGM3vFFMTbS09RdblQLt5EGOCC3a5uMJixSMnhOgJR1beLIbzThvox1gL+cp4bhbPmEjghsCw/hSg7PY5V72LagQLfCPV+FUb8zVX/uPpi3wwPeNpURVEgfiY272Ja0km+DdLl+JBhfq1aLXsahuY03Z44OA1a1vhkzwbpcCJOCdLj6+bb2ClwXK407F700JKxuAgtC+vJgCNYEhVWz2WkZeZFvl/H81obBghB6IUdXaoSWUgylO9TS+VrPVlNN7RWQvR12NG4OrJFpJYy9JbIgzRJCQwiv5BMLRMqAyyfNLj+/20NWlpG3PKU=
