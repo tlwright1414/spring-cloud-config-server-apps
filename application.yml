@@ -1,4 +1,4 @@
 test:
   git:
     level: root-default-apps
-    test: testing1234567
+    test: testing12345678
